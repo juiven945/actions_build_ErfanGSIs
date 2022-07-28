@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2136_A_1.10.7-update-full_1647914359.zip
   ROM_NAME: OriginOS Ocean
-  BUILD_TYPE: ab
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
